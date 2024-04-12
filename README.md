@@ -1,6 +1,8 @@
 ### Basic Data Exploration with pandas on Bikeshare Data
 This Python project focuses on using the pandas library to explore bikeshare data. The dataset includes information from three major U.S. cities: Chicago, Washington, and New York City. The goal is to perform descriptive analysis and display relevant information, such as popular days and common stations.
 
+### Created Date 
+
 ### Description
 1. The program prompts the user to input the desired city (e.g., Chicago), the month they want to analyze (including an ‘all’ option), and the specific day they are interested in (also with an ‘all’ option).
 2. After receiving user input, the program offers the option to view raw data (initially displaying 5 rows). Following this, it provides the following details:
