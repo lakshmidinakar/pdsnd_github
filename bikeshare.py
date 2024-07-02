@@ -57,7 +57,7 @@ def get_filters():
         if day not in DAY_LIST:
             print("\nInvalid input. Please try again in one of the accepted input formats.")
             print("\nRestarting...")
-
+    print("Here are the inputs provided")
     print(f"\nYou have chosen {day.title()} as your day.")
     print(f"\nYou have chosen to view data for city: {city.upper()}, month/s: {month.upper()} and day/s: {day.upper()}.")
     print('-'*40)
