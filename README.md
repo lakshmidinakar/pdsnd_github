@@ -42,3 +42,5 @@ Replace the Project Title
 ### Credits
 [Aritra](https://github.com/Aritra96/bikeshare-project) - helped in understanding the flow
 Udacity - Programming Data Science in Python Nanodegree 
+
+New changes
